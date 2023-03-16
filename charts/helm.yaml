@@ -1,0 +1,6 @@
+build:
+  uri: https://github.com/mnovak1/numberguess_vf2f.git
+  ref: main
+  contextDir: .
+deploy:
+  replicas: 1
